@@ -8,22 +8,38 @@
     justify-content: center;
 }
 
-.form-control{
-    margin-bottom: 10px;
-}
-
-.citySearch {
-    margin: 10px;
-    font-size: 20px;
-    font-weight: bold;
-}
-
 .btn-primary {
     background: lightgreen;
-    font-size: 20px;
-    border: white;
+    border: none;
+}
+
+.searchbar{
+    height: 100%;
 }
 
 .card {
     margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border: 50px;
+    border-color: white;
+    font-size: 14px;
+    padding: 15px;
+    display: inline-flex;
+}  
+
+.fiveDay{
+    display: inline-block;
+    width: auto;
+    background-color: lightcoral;
+    border: solid 3px black;
+    border-radius: 10px;
+    margin: 15px;
+    padding: 15px;
+}
+
+.search-results {
+    padding: 10px;
+    border: solid 3px black;
+    border-radius: 10px;
 }
