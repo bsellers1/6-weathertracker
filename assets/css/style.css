@@ -1,0 +1,29 @@
+.navbar{
+    background: lightblue;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    flex-wrap: wrap;
+    margin: 10px;
+    justify-content: center;
+}
+
+.form-control{
+    margin-bottom: 10px;
+}
+
+.citySearch {
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.btn-primary {
+    background: lightgreen;
+    font-size: 20px;
+    border: white;
+}
+
+.card {
+    margin-left: 10px;
+}
