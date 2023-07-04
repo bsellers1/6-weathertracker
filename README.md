@@ -16,3 +16,6 @@
 
 ## Contributions
 - This project was done by myself.
+
+## Screenshot
+![Screenshot (9)](https://github.com/bsellers1/6-weathertracker/assets/132436242/80cee15e-11ad-49fe-b98f-acb280ca21ae)
